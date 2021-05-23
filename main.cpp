@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "algorithm.hpp."
+#include "algorithm.hpp"
 
 using namespace std;
 
