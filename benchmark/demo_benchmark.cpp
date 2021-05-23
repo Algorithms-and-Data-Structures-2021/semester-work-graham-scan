@@ -6,7 +6,7 @@
 #include <sstream>      // stringstream
 
 // подключаем вашу структуру данных
-#include "data_structure.hpp"
+#include "algorithm.hpp"
 
 using namespace std;
 using namespace itis;
